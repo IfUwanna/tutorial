@@ -2,3 +2,4 @@
 2. 복제 txt 수정
 3-1 tutorial1 수정
 3-2 tutorial2 수정
+5. tutorial2 commit만 했다.
