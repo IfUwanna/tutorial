@@ -6,3 +6,4 @@
 5. commit 한번더했다.
 5. tutorial2 commit만 했다.
 6. macOs git commit test
+7. intelliJ commit test
