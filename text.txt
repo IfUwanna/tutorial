@@ -6,6 +6,7 @@ master1
 master2
 master3
 rebase-test4
+rebase-test6
 rebase-test5
 master4
 master5
